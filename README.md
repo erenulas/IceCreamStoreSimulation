@@ -1,5 +1,5 @@
 # Ice Cream Store Simulation
-It is the simulation of an ice cream store, and this simulation is done in [AnyLogic] (https://www.anylogic.com/downloads/) simulation tool. There are two cases as indicated in
+It is the simulation of an ice cream store, and this simulation is done in [AnyLogic](https://www.anylogic.com/downloads/) simulation tool. There are two cases as indicated in
 the system description below. Folder named as 'Ice Cream Store 2' represents the second case.
 
 ## System Description
