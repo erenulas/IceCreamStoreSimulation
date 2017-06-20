@@ -31,5 +31,5 @@ the system are measured.
 
 ## How to use it?
 * Clone the repo.
-* Open the model with AnyLogic simulation tool.
+* Open the model with [AnyLogic](https://www.anylogic.com/downloads/) simulation tool.
 * Customize it as you like and then run your simulation.
